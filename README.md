@@ -1,2 +1,4 @@
 # **Weather ETL Pipeline*
-Extracts,
+Extracts, Loads and Transform weather data. 
+
+Sa
