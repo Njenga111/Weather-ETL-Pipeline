@@ -1,4 +1,4 @@
 # **Weather ETL Pipeline*
 Extracts, Loads and Transform weather data. 
 
-Sa
+Data is sourced from OpenWeatherAPI
