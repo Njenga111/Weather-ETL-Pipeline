@@ -1,5 +1,5 @@
 # **Weather ETL Pipeline*
-Extracts weather data from the Openweather API, Loads and Transform weather data. 
+Extracts weather data from the Openweather API, Loads the weather data to a Postgress Database and Transform weather data. 
 
 Data is sourced from OpenWeatherAPI
 
