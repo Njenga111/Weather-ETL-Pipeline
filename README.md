@@ -5,4 +5,4 @@ Data is sourced from OpenWeatherAPI.
 
 
 The output is sent via email at a scheduled time.
-This code is written using Python language only. 
+
