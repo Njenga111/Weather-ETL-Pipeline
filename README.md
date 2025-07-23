@@ -4,4 +4,4 @@ The weather data is sent to an email as scheduled.
 Data is sourced from OpenWeatherAPI.
 
 
-The output is sent via email at a scheduled.
+The output is sent via email at a scheduled time.
